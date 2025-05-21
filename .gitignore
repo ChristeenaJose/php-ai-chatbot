@@ -1,0 +1,9 @@
+# Ignore secret files
+.env
+
+# Ignore system files
+.DS_Store
+
+# Ignore vendor folder (if using Composer)
+vendor/
+
